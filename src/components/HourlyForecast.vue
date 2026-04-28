@@ -1,6 +1,6 @@
 <template>
     <div class="mt-3">
-        <h4 class="mb-3">Hourly Forecast</h4>
+        <h4 class="mb-3">Hourly Forecast dev1</h4>
         <div class="d-flex overflow-auto">
             <div class="card p-3 text-center mr-4"
                  v-for="(item,index) in hourly"
